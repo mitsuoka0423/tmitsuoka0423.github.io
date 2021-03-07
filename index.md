@@ -12,7 +12,8 @@
 
 - (主催)[写真を送ると AI が分析してくれる LINE Bot を 1 時間で作ってみよう ~プロトアウト授業体験会~](https://protoout.connpass.com/event/203577/)
   - [ソースコード](https://github.com/tmitsuoka0423/line-bot-azure-face-api-handson)
-  - [ハンズオン資料](https://tmitsuoka0423.github.io/line-bot-azure-face-api-handson/)
+  - [ハンズオン資料](https://qiita.com/tmitsuoka0423/items/b468ab8eb9c0639257dd)
+  - [ハンズオンスライド](https://speakerdeck.com/tmitsuoka0423/xie-zhen-wosong-rutoaigafen-xi-sitekureru-line-botwo1shi-jian-dezuo-tutemiyou)
   - [ハンズオンツイートまとめ](https://togetter.com/li/1678609)
 - (主催)[【第 2 回】AI が写真を分析してくれる LINE Bot を 1 時間で作ってみよう～プロトアウト体験会](https://protoout.connpass.com/event/205530/)
 
