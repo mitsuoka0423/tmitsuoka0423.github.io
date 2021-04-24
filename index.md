@@ -15,7 +15,17 @@
   - [ハンズオン資料](https://qiita.com/tmitsuoka0423/items/b468ab8eb9c0639257dd)
   - [ハンズオンスライド](https://speakerdeck.com/tmitsuoka0423/xie-zhen-wosong-rutoaigafen-xi-sitekureru-line-botwo1shi-jian-dezuo-tutemiyou)
   - [ハンズオンツイートまとめ](https://togetter.com/li/1678609)
+  - [ハンズオン動画](https://youtu.be/DFY8NH6kyDM)
 - (主催)[【第 2 回】AI が写真を分析してくれる LINE Bot を 1 時間で作ってみよう～プロトアウト体験会](https://protoout.connpass.com/event/205530/)
+  - [ソースコード](https://github.com/tmitsuoka0423/line-bot-azure-face-api-handson)
+  - [ハンズオン資料](https://qiita.com/tmitsuoka0423/items/b468ab8eb9c0639257dd)
+  - [ハンズオンスライド](https://speakerdeck.com/tmitsuoka0423/xie-zhen-wosong-rutoaigafen-xi-sitekureru-line-botwo1shi-jian-dezuo-tutemiyou)
+  - [ハンズオン動画](https://youtu.be/lE0KSvWGeXg)
+- (主催)[画像分析AIを使ったLINE Botを1時間で作ってみよう（顔検出編）～プロトアウト体験会～](https://protoout.connpass.com/event/208886/)
+  - [ソースコード](https://github.com/tmitsuoka0423/line-bot-azure-face-api-face-detection-handson)
+  - [ハンズオン資料](https://zenn.dev/tmitsuoka0423/books/b21e50db77ff1eab89a3)
+  - [ハンズオンツイートまとめ](https://togetter.com/li/1704109)
+  - [ハンズオン動画](https://youtu.be/xyeYJfa0bFQ)
 
 ## 記事
 
